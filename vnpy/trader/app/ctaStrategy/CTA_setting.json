@@ -1,0 +1,12 @@
+[
+    {
+        "name": "DualThrust",
+        "className": "DualThrustStrategy",
+        "vtSymbol": "rb1805"
+    },
+    {
+        "name": "RBTurtle",
+        "className": "RBTurtleStrategy",
+        "vtSymbol": "rb1805"
+    }
+]
