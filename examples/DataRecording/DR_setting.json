@@ -1,0 +1,36 @@
+{
+    "working": true,
+
+    "tick":
+    [
+        ["T1803", "CTP"],
+        ["rb1801", "CTP"],
+        ["m1801", "CTP"],
+        ["SR801", "CTP"],
+        ["IF1712", "CTP"],
+        ["IH1712", "CTP"],
+        ["IC1712", "CTP"]
+    ],
+
+    "bar":
+    [
+        ["T1803", "CTP"],
+        ["rb1801", "CTP"],
+        ["m1801", "CTP"],
+        ["SR801", "CTP"],
+        ["IF1712", "CTP"],
+        ["IH1712", "CTP"],
+        ["IC1712", "CTP"]
+    ],
+
+    "active":
+    {
+        "T.HOT": "T1803",
+        "rb.HOT": "rb1801",
+        "m.HOT": "m1801",
+        "SR.HOT": "SR801",
+        "IF.HOT": "IF1712",
+        "IH.HOT": "IH1712",
+        "IC.HOT": "IC1712"   
+    }
+}
